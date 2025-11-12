@@ -1,0 +1,5 @@
+{
+  "name": "Image-to-Prompt Generator",
+  "description": "Upload an image to generate 5 creative and detailed prompts for AI image generation. Copy prompts individually or all at once to use in your favorite image generator.",
+  "requestFramePermissions": []
+}
